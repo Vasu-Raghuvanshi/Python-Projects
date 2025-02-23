@@ -1,0 +1,16 @@
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+wikipedia==1.4.0
+python-dotenv==1.0.0
+openai==1.12.0
+google-generativeai==0.3.2
+python-decouple==3.8
+requests==2.31.0
+PyAutoGUI==0.9.54
+psutil==5.9.8
+pygame==2.5.2
+schedule==1.2.1
+keyboard==0.13.5
+screen-brightness-control==0.21.0
+beautifulsoup4==4.12.3
+wolframalpha==5.0.0
