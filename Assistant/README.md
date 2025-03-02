@@ -2,7 +2,7 @@
 
 A powerful AI assistant that combines voice and text interaction with multiple AI models and system controls. Built with Python, this assistant integrates OpenAI GPT and Google Gemini for intelligent responses while providing various system utilities and information services.
 
-Note: Improved functionalities using AI
+### Note: Improved functionalities using AI
 
 ## 🌟 Features
 
